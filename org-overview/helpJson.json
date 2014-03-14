@@ -10,7 +10,7 @@
 			"position":"bottom"
 		},{
 			"element":"intro-3-side-menu",
-			"intro":"<p><strong>Application menu</strong></p><p>Click an item in the menu to configure and manage the corresponding feature.</p><p>From here you can configure and manage everything about the currently selected API BaaS application, such as user access, push notifications, your data store, and more.</p>"
+			"intro":"<p><strong>Application menu</strong></p><p>Click an item in the menu to configure and manage the corresponding feature.</p><p>From here you can configure and manage everything about the currently selected API BaaS application, such as user access, push notifications, your data store, and more.</p>",
 			"position":"right"
 		},{
 			"element":"intro-4-current-org",
