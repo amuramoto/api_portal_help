@@ -1,39 +1,39 @@
 {
 	"introjs":[
 		{
-			"element":"intro-1-org",
+			"element":"#intro-1-org",
 			"intro":"<p><strong>Organizations</strong></p><p>Click to view a list of the organizations you have access to. Orgs are how applications are grouped and managed in API BaaS.</p>",
 			"position":"bottom"
 		},{
-			"element":"intro-2-app-menu",
+			"element":"#intro-2-app-menu",
 			"intro":"<p><strong>Applications</strong></p><p>Click to view a list of applications in the currently selected organization. Applications represent unique data stores in API BaaS.</p>",
 			"position":"bottom"
 		},{
-			"element":"intro-3-side-menu",
+			"element":"#intro-3-side-menu",
 			"intro":"<p><strong>Application menu</strong></p><p>Click an item in the menu to configure and manage the corresponding feature.</p><p>From here you can configure and manage everything about the currently selected API BaaS application, such as user access, push notifications, your data store, and more.</p>",
 			"position":"right"
 		},{
-			"element":"intro-4-current-org",
+			"element":"#intro-4-current-org",
 			"intro":"<p>This is the unique name and UUID of the currently selected organization.</p>",
 			"position":"right"
 		},{
-			"element":"intro-5-applications",
+			"element":"#intro-5-applications",
 			"intro":"<p>These are the names and UUIDs of all the applications available in the currently selected organization.</p>",
 			"position":"right"
 		},{
-			"element":"intro-6-org-api-creds",
+			"element":"#intro-6-org-api-creds",
 			"intro":"<p>These are your credentials for organization-level access.</p><p>Your organization client ID and secret can be used to authenticate any API request against any application in the organization, so use it cautiously. If you believe your organization credentials have been compromised, regenerate them.</p>",
 			"position":"right"
 		},{
-			"element":"intro-7-org-admins",
+			"element":"#intro-7-org-admins",
 			"intro":"<p>These are the users that have administrator privleges to the currently selected organization.</p><p>These users can use their username and password to authentucate any API request against any application in the currently selected organization.</p>",
 			"position":"right"
 		},{
-			"element":"intro-8-activities",
+			"element":"#intro-8-activities",
 			"intro":"<p>This is the activity stream for the currently selected organization.</p><p>Here you can monitor org-level activities such as when a new application is created in the org.</p>",
 			"position":"right"
 		},{
-			"element":"intro-9-sdks",
+			"element":"#intro-9-sdks",
 			"intro":"<p><strong>Download an SDK!</strong></p><p>Ready to start using API BaaS to power your app? Download one of our SDKs to get developing in your preferred language fast!</p>",
 			"position":"bottom"
 	}],
