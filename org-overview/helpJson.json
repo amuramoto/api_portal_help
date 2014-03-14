@@ -31,7 +31,7 @@
 		},{
 			"element":"#intro-8-activities",
 			"intro":"<p>This is the activity stream for the currently selected organization.</p><p>Here you can monitor org-level activities such as when a new application is created in the org.</p>",
-			"position":"right"
+			"position":"left"
 		},{
 			"element":"#intro-9-sdks",
 			"intro":"<p><strong>Download an SDK!</strong></p><p>Ready to start using API BaaS to power your app? Download one of our SDKs to get developing in your preferred language fast!</p>",
